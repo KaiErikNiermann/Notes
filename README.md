@@ -20,7 +20,7 @@ Not all of these notes are complete, usually the notes are either
 ### Year 1 
 
 - `[EN]` [Pervasive Computing](https://applesaucenotes.notion.site/Exam-Check-List-a66ab6b1f4f54a62aa3924a5eab1b87f?pvs=4)
-- `[CN]` [Web Technology](https://applesaucenotes.notion.site/Web-Tech-Cram-Notes-ba1dc05c17764607ab23ab96be8c4572?pvs=4)
+- `[FN]` [Web Technology](https://applesauce-notes.notion.site/Web-Technology-53f5d765ae3840468b7f8804c383b672?pvs=4)
 - `[FN]` [Computer Networks](https://applesaucenotes.notion.site/Computer-Networks-b49542a94e0e4981ae8bfd71569c3c89?pvs=4)
 - `[FN]` [Computer Organization](https://applesaucenotes.notion.site/Computer-Organization-Reading-1c63fb4f45334aa1a925a7c074c6656f?pvs=4)
 - `[FN]` [Networks and Graphs](https://applesaucenotes.notion.site/Networks-and-Graphs-2276956242294d6296352640e50343e5?pvs=4)
