@@ -41,6 +41,11 @@ Not all of these notes are complete, usually the notes are either
 
 - `[FN]` [Compiler Construction](https://applesauce-notes.notion.site/Compiler-Construction-b5357cc8c13f432cb2329ff64d80b6c0?pvs=4)
 
+### Non-VU 
+
+- `[FN]` [High-Performance Computing](https://applesauce-notes.notion.site/High-Performance-Computing-5e4fe40cb05849b3be49955d07a4703d?pvs=4)
+- `[CN]` [Introduction to Neuroinformatics](https://github.com/KaiErikNiermann/ini-ethz-notes) 
+
 ## Support [❤️](https://www.buymeacoffee.com/applesauce)
 
 If you want to show some appreciation you can do so [**on here**](https://www.buymeacoffee.com/applesauce) but feel no obligation, just happy I could help, good luck with your studies ༼ つ ◕_◕ ༽つ 
