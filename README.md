@@ -40,6 +40,8 @@ Not all of these notes are complete, usually the notes are either
 ### Year 3 
 
 - `[FN]` [Compiler Construction](https://applesauce-notes.notion.site/Compiler-Construction-b5357cc8c13f432cb2329ff64d80b6c0?pvs=4)
+- `[FN]` [Machine Learning](https://applesauce-notes.notion.site/Machine-Learning-f2782a8d0c3341d595c4bc1526c330a8?pvs=4) \**in progress*
+- `[FN]` [Automata and Complextiy](https://applesauce-notes.notion.site/Automata-and-Complexity-db6df659300b4e22b513a3cc7061b376?pvs=4) \**in progress*
 
 ### Non-VU 
 
