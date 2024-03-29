@@ -40,13 +40,17 @@ Not all of these notes are complete, usually the notes are either
 ### Year 3 
 
 - `[FN]` [Compiler Construction](https://applesauce-notes.notion.site/Compiler-Construction-b5357cc8c13f432cb2329ff64d80b6c0?pvs=4)
-- `[FN]` [Machine Learning](https://applesauce-notes.notion.site/Machine-Learning-f2782a8d0c3341d595c4bc1526c330a8?pvs=4) \**in progress*
-- `[FN]` [Automata and Complextiy](https://applesauce-notes.notion.site/Automata-and-Complexity-db6df659300b4e22b513a3cc7061b376?pvs=4) \**in progress*
+- `[FN]` [Machine Learning](https://applesauce-notes.notion.site/Machine-Learning-f2782a8d0c3341d595c4bc1526c330a8?pvs=4) 
+- `[FN]` [Automata and Complextiy](https://applesauce-notes.notion.site/Automata-and-Complexity-db6df659300b4e22b513a3cc7061b376?pvs=4) 
 
 ### Non-VU 
 
 - `[FN]` [High-Performance Computing](https://applesauce-notes.notion.site/High-Performance-Computing-5e4fe40cb05849b3be49955d07a4703d?pvs=4)
 - `[CN]` [Introduction to Neuroinformatics](https://github.com/KaiErikNiermann/ini-ethz-notes) 
+
+### Non-CS 
+
+- `[FN]` [Computational Intelligence](https://applesauce-notes.notion.site/Computational-Intelligence-f343a344873f44f08e88f12395165626?pvs=4) \**in progress*
 
 ## Support [❤️](https://www.buymeacoffee.com/applesauce)
 
