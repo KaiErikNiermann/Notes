@@ -50,7 +50,7 @@ Not all of these notes are complete, usually the notes are either
 
 ### Non-CS 
 
-- `[FN]` [Computational Intelligence](https://applesauce-notes.notion.site/Computational-Intelligence-f343a344873f44f08e88f12395165626?pvs=4) \**in progress*
+- `[FN]` [Computational Intelligence](https://applesauce-notes.notion.site/Computational-Intelligence-f343a344873f44f08e88f12395165626?pvs=4) 
 
 ## Support [❤️](https://www.buymeacoffee.com/applesauce)
 
